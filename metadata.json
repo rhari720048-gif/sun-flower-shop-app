@@ -1,0 +1,6 @@
+{
+  "name": "Sun Flowers",
+  "description": "Sun Flowers and Decoration — Fresh flower, bouquet, garland and decoration delivery app with Neon PostgreSQL data layer, Firebase Authentication, bilingual English/Tamil support, and built-in Shop Admin portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
